@@ -36,3 +36,16 @@ html {
 .container {
     max-width: 960px;
 }
+.bibtex-container {
+  overflow-x: auto;
+  max-width: 100%;
+  font-size: 0.9em;
+}
+pre {
+  white-space: pre;
+  word-wrap: normal;
+}
+pre code{
+    background-color: transparent;
+    color: currentColor;
+}
