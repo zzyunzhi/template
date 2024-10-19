@@ -454,6 +454,10 @@ a.anchor {
   width: 100%;
   height: auto;
 }
+.paper__section-grid img{
+    width: 100%;
+    height: auto;
+}
 .paper__abstract{
   /* text-align: justify; */
 }
