@@ -49,3 +49,6 @@ pre code{
     background-color: transparent;
     color: currentColor;
 }
+.nav__home_icon {
+    display: inline-block !important;
+}
